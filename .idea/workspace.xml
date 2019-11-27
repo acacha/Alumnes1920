@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197d3ddc-bbc6-4e2d-b73a-0b6cb2538e46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aycorreia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GerardGB" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jotaela" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carloros" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dimobo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/genis99" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/karimlema9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aycorreia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +24,15 @@
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1UD1JTaNx4XyMQBafBiWUukO6Gg" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.config/composer/vendor/autoload.php" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
@@ -56,9 +59,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574876279569</updated>
-      <workItem from="1574876280748" duration="55000" />
+      <workItem from="1574876280748" duration="1318000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
